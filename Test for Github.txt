@@ -1,2 +1,2 @@
-Hello World !
+Hello Wizards! 
 This is a better sentence.
