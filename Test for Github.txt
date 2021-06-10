@@ -1,3 +1,2 @@
 Hello World !
-
-Im connected to the internet! what an exciting day! 
+This is a better sentence.
